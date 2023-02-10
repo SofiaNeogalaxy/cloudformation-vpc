@@ -1,4 +1,4 @@
-# cloudformation-vpc
+# CloudFormation Template VPC
 This repository contains an AWS CloudFormation template for building a Virtual Private Cloud (VPC) in Amazon Web Services (AWS). The template creates the following resources in your AWS account:
 
 - VPC with a CIDR block of 10.0.0.0/16
