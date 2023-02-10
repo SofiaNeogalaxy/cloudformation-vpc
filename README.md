@@ -7,4 +7,5 @@ This repository contains an AWS CloudFormation template for building a Virtual P
 - A route table to route traffic between the subnets and the Internet via the Internet Gateway
 - Security group to allow secure access to instances in the public subnets via SSH (port 22)
 - Association of the route table with the public subnets
+
 This CloudFormation template is a starting point for building your infrastructure in AWS.
