@@ -8,4 +8,4 @@
 - Security group to allow secure access to instances in the public subnets via SSH (port 22)
 - Association of the route table with the public subnets
 
-### This CloudFormation template is a starting point for building your infrastructure in AWS.
+#### This CloudFormation template is a starting point for building your infrastructure in AWS.
